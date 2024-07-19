@@ -1,0 +1,51 @@
+
+
+INICIANDO ARCHIVE TRANSFER
+
+Data: 18/7/2024 Hr: 23:37
+
+Pastas: ['Android Projects', 'Eclipse Projects', 'Vs Code']
+
+-
+Android Projects is a directory
+Copiando arquivo Android Projects para a area de tranferencia
+Removendo arquivo Android Projects da pasta de destino Z:/WorkSpaces/
+Movendo o arquivo de pasta de transferencia para a pasta de destino
+-
+Eclipse Projects is a directory
+Copiando arquivo Eclipse Projects para a area de tranferencia
+Removendo arquivo Eclipse Projects da pasta de destino Z:/WorkSpaces/
+Movendo o arquivo de pasta de transferencia para a pasta de destino
+-
+Vs Code is a directory
+Copiando arquivo Vs Code para a area de tranferencia
+Removendo arquivo Vs Code da pasta de destino Z:/WorkSpaces/
+Movendo o arquivo de pasta de transferencia para a pasta de destino
+-
+Tarefa Completa
+--------------------------------------------------
+
+INICIANDO ARCHIVE TRANSFER
+
+Data: 18/7/2024 Hr: 23:38
+
+Pastas: ['Android Projects', 'Eclipse Projects', 'Vs Code']
+
+-
+Android Projects is a directory
+Copiando arquivo Android Projects para a area de tranferencia
+Removendo arquivo Android Projects da pasta de destino Z:/WorkSpaces/
+Movendo o arquivo de pasta de transferencia para a pasta de destino
+-
+Eclipse Projects is a directory
+Copiando arquivo Eclipse Projects para a area de tranferencia
+Removendo arquivo Eclipse Projects da pasta de destino Z:/WorkSpaces/
+Movendo o arquivo de pasta de transferencia para a pasta de destino
+-
+Vs Code is a directory
+Copiando arquivo Vs Code para a area de tranferencia
+Removendo arquivo Vs Code da pasta de destino Z:/WorkSpaces/
+Movendo o arquivo de pasta de transferencia para a pasta de destino
+-
+Tarefa Completa
+--------------------------------------------------
